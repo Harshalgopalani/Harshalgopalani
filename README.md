@@ -20,7 +20,7 @@ I bridge the gap between complex AI engineering and strategic product vision. I 
 
 ## 🚀 Featured Products & Repositories
 
-### 1. [Project Adaptive Depth (DCD Engine)] [(https://github.com/Harshalgopalani/Project-Adaptive-Depth-LLM-Response.git)]
+### 1. [Project Adaptive Depth (DCD Engine)] [(link-to-repo)](https://github.com/Harshalgopalani/Project-Adaptive-Depth-LLM-Response.git)
 * **Role:** Lead AI PM / Architect
 * **Tech:** Python, FastAPI, Groq LPU, Pydantic, GitHub Actions
 * **Impact:** Designed a decoupled, 3-tier LLM architecture utilizing a sub-50ms intent router to dynamically constrain heavy LLM generation, reducing token COGS by an estimated 15% and eliminating UX cognitive overload.
@@ -30,7 +30,7 @@ I bridge the gap between complex AI engineering and strategic product vision. I 
 * **Tech:** FastAPI, ChromaDB, Groq API, Python
 * **Impact:** Developed and prototyped a 24/7 autonomous RAG SaaS application designed to instantly answer customer inquiries and qualify real estate leads, drastically reducing response times.
 
-### 3. AI Document Analyzer for FinTech Companies [(https://github.com/Harshalgopalani/AI-Document-analyzer-for-Fintech-companies-to-Analyze-financial-10K-Reports-and-curate-Metrics.git)]
+### 3. AI Document Analyzer for FinTech Companies [(link-to-repo)](https://github.com/Harshalgopalani/AI-Document-analyzer-for-Fintech-companies-to-Analyze-financial-10K-Reports-and-curate-Metrics.git)
 
 * **Role: AI Developer / Product Architect
 * **Tech: Python, FastAPI, LLMs, RAG, Vector Database, Pydantic
@@ -42,4 +42,4 @@ I bridge the gap between complex AI engineering and strategic product vision. I 
 * **Impact:** Engineered foundational Python scripts for local project environment setup, handling system logs, object management, and continuous version control integration.
 
 ## 📈 GitHub Stats
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshalgopalani&show_icons=true&theme=radical)
