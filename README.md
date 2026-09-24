@@ -11,6 +11,7 @@ I bridge the gap between complex AI engineering and strategic product vision. I 
 * **Product Strategy:** Product Requirements Documents (PRDs), Agile/Scrum, Stakeholder Management, CI/CD Pipeline oversight.
 
 ## 🏆 Professional Certifications
+* Certified Python Associate (CPA) | Accredion (Issuing Authority: MISAC, California - USA)
 * Microsoft AI Product Management
 * IBM RAG and Agentic AI
 * Microsoft AI Engineering
