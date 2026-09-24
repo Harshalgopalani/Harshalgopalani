@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Harshal Gopalani 👋
 
-<!--
-**Harshalgopalani/Harshalgopalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Manager | Business Analyst | Python Developer**
 
-Here are some ideas to get you started:
+I bridge the gap between complex AI engineering and strategic product vision. I specialize in designing scalable, low-latency AI architectures (RAG, Multi-Agent Workflows, and Generative UI) that solve real business bottlenecks and drive operational ROI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Core Competencies
+* **AI Architecture:** Retrieval-Augmented Generation (RAG), ReAct Frameworks, Agentic Workflows, Knowledge Graphs (Neo4j).
+* **Backend & Data:** Python (NumPy, Pandas), FastAPI, Spring Boot, BigQuery, SQL.
+* **LLM Ops:** Prompt Registry Management, Constrained Generation (JSON schemas), Token Optimization, Local Models (Ollama), API Orchestration (Groq).
+* **Product Strategy:** Product Requirements Documents (PRDs), Agile/Scrum, Stakeholder Management, CI/CD Pipeline oversight.
+
+## 🏆 Professional Certifications
+* Microsoft AI Product Management
+* IBM RAG and Agentic AI
+* Microsoft AI Engineering
+* Google Professional Project Management
+* Python Institute Certified Associate
+
+## 🚀 Featured Products & Repositories
+
+### 1. [Project Adaptive Depth (DCD Engine)](link-to-repo)
+* **Role:** Lead AI PM / Architect
+* **Tech:** Python, FastAPI, Groq LPU, Pydantic, GitHub Actions
+* **Impact:** Designed a decoupled, 3-tier LLM architecture utilizing a sub-50ms intent router to dynamically constrain heavy LLM generation, reducing token COGS by an estimated 15% and eliminating UX cognitive overload.
+
+### 2. [Real Estate RAG Automator](link-to-repo)
+* **Role:** AI Developer / Product Owner
+* **Tech:** FastAPI, ChromaDB, Groq API, Python
+* **Impact:** Developed and prototyped a 24/7 autonomous RAG SaaS application designed to instantly answer customer inquiries and qualify real estate leads, drastically reducing response times.
+
+### 3. [Denzeye.ai - Core Infrastructure](link-to-repo)
+* **Role:** Python Developer
+* **Tech:** Python, Git, JSON
+* **Impact:** Engineered foundational Python scripts for local project environment setup, handling system logs, object management, and continuous version control integration.
+
+## 📈 GitHub Stats
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
