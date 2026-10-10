@@ -154,7 +154,7 @@ I evaluate business and AI product initiatives through rigorous, quantifiable ou
 ---
 
 ## 📈 GitHub Statistics
-
+!Harshal's GitHub stats
 ---
 
 ## 🤝 Let's Connect
