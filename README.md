@@ -75,7 +75,7 @@ Combining hands-on technical capabilities in Python, SQL, and LLM architecture w
 
 ---
 
-### 2. Real Estate RAG Automator
+### 2. [Real Estate RAG Automator](https://github.com/Harshalgopalani/realestate-rag-saas.git)
 * **Role:** AI Product Developer / Product Owner  
 * **Focus:** Customer Experience · Workflow Automation · Lead Qualification  
 * **Overview:** Prototyped an autonomous Retrieval-Augmented Generation (RAG) solution to automate 24/7 customer inquiry handling and qualify inbound real estate leads.
@@ -87,7 +87,7 @@ Combining hands-on technical capabilities in Python, SQL, and LLM architecture w
 
 ---
 
-### 3. AI Document Analyzer for FinTech
+### 3. [AI Document Analyzer for FinTech](https://github.com/Harshalgopalani/AI-Document-analyzer-for-Fintech-companies-to-Analyze-financial-10K-Reports-and-curate-Metrics.git)
 * **Role:** AI Solution Developer / Product Architect  
 * **Focus:** Financial Data Structuring · Decision Support · Process Automation  
 * **Overview:** Developed an automated financial intelligence tool that extracts, structures, and categorizes key financial metrics from complex, unstructured company 10-K filings.
